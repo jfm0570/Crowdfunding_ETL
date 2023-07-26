@@ -1,0 +1,5 @@
+Links resources:
+
+https://stackoverflow.com/questions/14745022/how-to-split-a-dataframe-string-column-into-two-columns
+https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html
